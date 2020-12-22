@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>AN35.jpg</filename>
+	<path>C:\Users\Chinmayi\Downloads\data\images\test\AN35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>areca bunch</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>10</ymin>
+			<xmax>3024</xmax>
+			<ymax>4004</ymax>
+		</bndbox>
+	</object>
+</annotation>
